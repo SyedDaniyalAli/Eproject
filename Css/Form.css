@@ -1,0 +1,49 @@
+body{margin:0%}
+
+legend
+{
+	color:#FF9;
+	font-size:36px;
+
+}
+
+span
+{
+	font-size:25px;
+	color:#FFF;
+}
+
+
+input[type=button], input[type=submit]{
+    background-color:#FFF;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-size:110%;
+	
+}
+body
+{
+	background-attachment:fixed;
+	background-color:;
+	background-repeat:no-repeat;
+	
+	}
+	
+
+form, legend 
+{
+	padding:20px 80px;
+	
+	}
+input
+	{   
+    width:%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box -sizing: border-box;
+	}
+fieldset{ border:double thick; border-color:#ff0; margin:1%;}

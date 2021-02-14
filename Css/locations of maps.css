@@ -1,0 +1,75 @@
+
+
+#gmap_canvas img{max-width:none!important;background:none!important}
+.mapfloat{
+	float:right;
+	size:20;
+	}
+	input[type=text]:focus, input[type=email]:focus {
+	    
+    border: 3px solid #555;
+}
+input[type=text], input[type=email], input[type=text] {
+	   
+    width: %;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box -sizing: border-box;
+	
+	
+}
+
+input[type=button], input[type=submit]{
+    background-color:lightgrey;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	box-shadow:#F69;
+	
+}
+
+
+textarea{
+	height:40;
+     width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	
+}
+h5
+{
+	text-align:end;}
+body
+{
+	padding:60px 4p0px;
+	background-attachment:fixed;
+	color:#FFF
+	
+	}
+a
+{
+	text-decoration:none;}
+b, p, h1, legend
+
+{
+	color:white;}
+
+#F1, .h1 
+{
+	padding-left:3%;
+	padding-top:2%;
+	padding-right:3%;
+	
+}
+#h1
+{ padding-top:7%}
+	
+#map1{display:none; padding-left:50%}
+#map2{display:none; padding-left:50%}
+#map3{display:none; padding-left:50%}
+
+
